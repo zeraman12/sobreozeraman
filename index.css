@@ -1,0 +1,59 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Centraliza o texto na página */
+}
+
+/* Estilos da barra de navegação */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.navbar {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centraliza os itens horizontalmente */
+}
+
+.navbar li {
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilos da foto de perfil */
+.profile img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+/* Estilos de hover para os links da navbar */
+.navbar a:hover {
+    text-decoration: underline;
+}
+/* Estilos da foto de perfil */
+.profile img {
+    width: 100px; /* Largura desejada da imagem de perfil */
+    height: 100px; /* Altura desejada da imagem de perfil */
+    border-radius: 50%;
+    margin-left: 20px;
+}
+/* Estilos gerais */
+body {
+    background-color: #000; /* #000 é o código hexadecimal para preto */
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff; /* Define a cor do texto como branco para contraste */
+    text-align: center;
+}
